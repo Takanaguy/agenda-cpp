@@ -1,0 +1,6 @@
+*.o
+*.exe
+*.raccoon
+out.log
+stdout.log
+stderr.log
